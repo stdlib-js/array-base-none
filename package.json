@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-none",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Test whether all elements in an array are falsy.",
   "license": "Apache-2.0",
   "author": {
