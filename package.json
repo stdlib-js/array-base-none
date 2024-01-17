@@ -38,8 +38,8 @@
   },
   "dependencies": {
     "@stdlib/array-base-arraylike2object": "^0.1.0",
-    "@stdlib/array-base-assert-is-complex128array": "github:stdlib-js/array-base-assert-is-complex128array#main",
-    "@stdlib/array-base-assert-is-complex64array": "github:stdlib-js/array-base-assert-is-complex64array#main",
+    "@stdlib/array-base-assert-is-complex128array": "^0.1.0",
+    "@stdlib/array-base-assert-is-complex64array": "^0.1.0",
     "@stdlib/strided-base-reinterpret-complex128": "^0.1.1",
     "@stdlib/strided-base-reinterpret-complex64": "^0.1.1",
     "@stdlib/types": "^0.2.0"

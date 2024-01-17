@@ -113,7 +113,7 @@ var none = require( '@stdlib/array-base-none' );
 
 var x = bernoulli( 10, 0.1, {
     'dtype': 'int8'
-} );
+});
 // returns <Int8Array>
 
 var out = none( x );
@@ -179,8 +179,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/array-base-none.svg
 [npm-url]: https://npmjs.org/package/@stdlib/array-base-none
 
-[test-image]: https://github.com/stdlib-js/array-base-none/actions/workflows/test.yml/badge.svg?branch=v0.1.0
-[test-url]: https://github.com/stdlib-js/array-base-none/actions/workflows/test.yml?query=branch:v0.1.0
+[test-image]: https://github.com/stdlib-js/array-base-none/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/array-base-none/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/array-base-none/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/array-base-none?branch=main
