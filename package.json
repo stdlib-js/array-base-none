@@ -42,7 +42,8 @@
     "@stdlib/array-base-assert-is-complex64array": "^0.2.1",
     "@stdlib/strided-base-reinterpret-complex128": "^0.2.1",
     "@stdlib/strided-base-reinterpret-complex64": "^0.2.0",
-    "@stdlib/types": "^0.3.2"
+    "@stdlib/types": "^0.3.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
   },
   "devDependencies": {
     "@stdlib/array-base-accessor": "^0.2.0",
