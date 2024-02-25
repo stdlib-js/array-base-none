@@ -54,6 +54,11 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
+none = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-none@umd/browser.js' )
+```
+The previous example will load the latest bundled code from the umd branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/array-base-none/tags). For example,
+
+```javascript
 none = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-none@v0.2.1-umd/browser.js' )
 ```
 
@@ -66,7 +71,7 @@ var none = require( 'path/to/vendor/umd/array-base-none/index.js' )
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-base-none@v0.2.1-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-base-none@umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -120,7 +125,7 @@ var bool = none( x );
 <html lang="en">
 <body>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-array-bernoulli@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-base-none@v0.2.1-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-base-none@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
