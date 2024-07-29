@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-none",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Test whether all elements in an array are falsy.",
   "license": "Apache-2.0",
   "author": {
@@ -38,28 +38,28 @@
   },
   "dependencies": {
     "@stdlib/array-base-arraylike2object": "^0.2.1",
-    "@stdlib/array-base-assert-is-booleanarray": "^0.0.1",
-    "@stdlib/array-base-assert-is-complex128array": "^0.2.1",
-    "@stdlib/array-base-assert-is-complex64array": "^0.2.1",
-    "@stdlib/strided-base-reinterpret-boolean": "^0.0.1",
-    "@stdlib/strided-base-reinterpret-complex128": "^0.2.1",
-    "@stdlib/strided-base-reinterpret-complex64": "^0.2.0",
+    "@stdlib/array-base-assert-is-booleanarray": "^0.0.2",
+    "@stdlib/array-base-assert-is-complex128array": "^0.2.2",
+    "@stdlib/array-base-assert-is-complex64array": "^0.2.2",
+    "@stdlib/strided-base-reinterpret-boolean": "^0.0.2",
+    "@stdlib/strided-base-reinterpret-complex128": "^0.2.2",
+    "@stdlib/strided-base-reinterpret-complex64": "^0.2.1",
     "@stdlib/types": "^0.3.2"
   },
   "devDependencies": {
     "@stdlib/array-base-accessor": "^0.2.1",
-    "@stdlib/array-base-zeros": "^0.2.1",
-    "@stdlib/array-bool": "^0.0.1",
-    "@stdlib/array-complex128": "^0.2.1",
-    "@stdlib/array-complex64": "^0.2.1",
-    "@stdlib/array-float64": "^0.2.1",
-    "@stdlib/assert-is-boolean": "^0.2.1",
-    "@stdlib/math-base-special-pow": "^0.2.1",
+    "@stdlib/array-base-zeros": "^0.2.2",
+    "@stdlib/array-bool": "^0.1.0",
+    "@stdlib/array-complex128": "^0.3.0",
+    "@stdlib/array-complex64": "^0.3.0",
+    "@stdlib/array-float64": "^0.2.2",
+    "@stdlib/assert-is-boolean": "^0.2.2",
+    "@stdlib/math-base-special-pow": "^0.3.0",
     "@stdlib/random-array-bernoulli": "^0.2.1",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.1"
+    "@stdlib/bench-harness": "^0.2.2"
   },
   "engines": {
     "node": ">=0.10.0",
