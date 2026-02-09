@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import none from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-none@deno/mod.js';
+import none from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-none@v0.3.1-deno/mod.js';
 ```
 
 #### none( x )
@@ -93,7 +93,7 @@ var bool = none( x );
 
 ```javascript
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-bernoulli@deno/mod.js';
-import none from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-none@deno/mod.js';
+import none from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-none@v0.3.1-deno/mod.js';
 
 var x = bernoulli( 10, 0.1, {
     'dtype': 'int8'
