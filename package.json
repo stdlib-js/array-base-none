@@ -47,7 +47,7 @@
     "@stdlib/types": "^0.4.3"
   },
   "devDependencies": {
-    "@stdlib/array-base-accessor": "^0.2.2",
+    "@stdlib/array-base-accessor": "^0.2.3",
     "@stdlib/array-base-zeros": "^0.2.3",
     "@stdlib/array-bool": "^0.1.2",
     "@stdlib/array-complex128": "^0.3.2",
